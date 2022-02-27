@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at Penbrook [sic] Castle between the Parliaments forces commanded by Lieutenant Generall Cromwell, and Col. Horton, and the Kings forces commanded by Col. John Poyer, and Major Generall Laughorn [sic]. With the manner of their storming the town, the beating of Col. Poyer and his forces to the castle wals, the great execution done in the streets, and how they were repulsed, and forced to retreat by Laughorns men falling on the rear. Likewise the resolution of Lieut. Gen. Cromwel and his forces, concerning the said castle; and the further proceedings of the Duke of Bucking, and the resolution of the Kentish-men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85563</idno>
+            <idno type="STC">Wing G1637</idno>
+            <idno type="STC">Thomason E451_35</idno>
+            <idno type="STC">ESTC R202346</idno>
+            <idno type="EEBO-CITATION">99862672</idno>
+            <idno type="PROQUEST">99862672</idno>
+            <idno type="VID">161944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161944)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at Penbrook [sic] Castle between the Parliaments forces commanded by Lieutenant Generall Cromwell, and Col. Horton, and the Kings forces commanded by Col. John Poyer, and Major Generall Laughorn [sic]. With the manner of their storming the town, the beating of Col. Poyer and his forces to the castle wals, the great execution done in the streets, and how they were repulsed, and forced to retreat by Laughorns men falling on the rear. Likewise the resolution of Lieut. Gen. Cromwel and his forces, concerning the said castle; and the further proceedings of the Duke of Bucking, and the resolution of the Kentish-men.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, to prevent mis-information :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Poyer, John, d. 1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161944:1" rendition="simple:additions"/>
+            <p>A great and bloudy FIGHT AT Penbrook Castle BETWEEN The Parliaments Forces commanded by Lieutenant Generall <hi>Cromwell;</hi> and Col. <hi>Horton,</hi> and the Kings Forces commanded by Col. <hi>John Poyer,</hi> and Major Generall <hi>Laughorn.</hi>
+            </p>
+            <p>With the manner of their ſtorming the Town, the bea<g ref="char:EOLhyphen"/>ting of Col. <hi>Poyer</hi> and his forces to the Caſtle wals, the great execution done in the Streets, and how they were repulſed, and forced to retreat by <hi>Laughorns</hi> men falling on the Rear.</p>
+            <p>Likewiſe the Reſolution of Lieut. Gen. <hi>Cromwel</hi> and his Forces, concerning the ſaid Caſtle; And the further proceedings of the Duke of <hi>Bucking,</hi> and the Reſolution of the <hi>Kentiſh-men.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> to prevent miſ-information, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161944:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:161944:2"/>
+            <head>A great and bloudy FIGHT AT <hi>Pembreke Castle</hi> in <hi>South-VVales,</hi> between the Forces commanded by Lieut. Generall <hi>Cromwel,</hi> and col. <hi>Horton,</hi> and the Forces commanded by Maj. Gen. <hi>Laughorn,</hi> and Col. <hi>John Poyer.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>VVEE cannot yet ſend you that either <hi>Penbrook</hi> Town or Caſtle is taken, yet we hope within few dayes to be Maſters thereof. We have made ſeverall attempts a<g ref="char:EOLhyphen"/>gainſt the town, and ſtormed the walls in two or three places, fought with the enemy in the towne, worſted
+<pb n="2" facs="tcp:161944:3"/>them, and beat them up to the Caſtle Wals, doing great execution throughout the town and killing neer upon one hundred of the enemy in the purſuit. But a Major of Lieutenant General <hi>Cromwels</hi> not following with the Reſerve of Pires and Muſquetiers, according to or<g ref="char:EOLhyphen"/>der, Major Generall <hi>Laughorn</hi> came in the Reare of them with a party of Horſe, and forced them to quit the town, out of which they were driven, and about 30 of our men killed, ſome few wounded, the reſt made good their retreat.</p>
+            <p>Of the enemies ſide it is ſuppoſed their loſſe were as many more, as appears by the conſeſſion of divers who have ſince diſſerted that ſervice, and come in to the Lieut. Generall.</p>
+            <p>In this conflict Col. <hi>Horton</hi> behaved himſelfe with much gallantry, and Col. <hi>Okeyes</hi> Dragoones did excee<g ref="char:EOLhyphen"/>ding good ſervice, who purſued the enemy almoſt to the very walls, and made good their retreat with very little loſſe.</p>
+            <p>Our Batteries are now finiſhed, and our Ordnance planted againſt the Town and Caſtle, and have made ſeverall Breache, and the Councell of War have re<g ref="char:EOLhyphen"/>ſolved to ſtorm it again.</p>
+            <p>The reaſon why the ſiege continues ſo long is the want of ſome great Guns and Mortar-Pieces, which came not untill within theſe few dayes down Severne, the wind having been long oppoſite to them.</p>
+            <p>Capt. <hi>Flower</hi> of Col. <hi>Deanes</hi> Regiment was lately wounded upon a ſtorme, and Major <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igs</hi> Lieutenant and Enſign ſlain, Captain <hi>Burges</hi> is wounded and very ſick.</p>
+            <p>All the inſurrections about you (I believe) will not
+<pb n="3" facs="tcp:161944:3"/>make usyeeld any other conditions then mercy to thoſe within, and in caſe before we have done, they chance to get never ſo great and impregnable an Army, they wil give us leave to have one bout with them before we be disbanded, wee that are here do not intend to give all loſt.</p>
+            <p>The Lieutenant Generall is alive and in health, and willing to fight for the liberties of <hi>England,</hi> as ever he did formerly.</p>
+            <p>
+               <hi>Tueſday</hi> laſt we gave the Town another ſtrong al<g ref="char:EOLhyphen"/>larum, 120. of <hi>Poyers</hi> men laid down their Arms, vow<g ref="char:EOLhyphen"/>ing never to take them up again, but by the importuni<g ref="char:EOLhyphen"/>ty of <hi>Poyer</hi> and <hi>Laughorn,</hi> telling them, if reliefe came not within four days, they would yeild, and they ſhould hang them; by which means they ingaged againe. We are informed, that they have not proviſions for four<g ref="char:EOLhyphen"/>teen dayes: wee expect every day that moſt of them come to us through want: they only have a little rain water and Bisket left: But its ſtill feared, that <hi>Poyer</hi> &amp; <hi>Laughorn,</hi> when they can hold out the Town no longer will betake themſelves to the Caſtle, and leave the reſt to mercy: if we get the Town, we doubt not to carry the Caſtle ſuddenly.</p>
+            <p>
+               <hi>Our Morter-pieces have plaid hard against the towne and done great execution, and hath batterd down many houſes, and killed at the leaſt</hi> 30. <hi>of the Enemy, as appeares by the confeſſion of two of</hi> Poyers <hi>men who came over the walls to us.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer before</hi> Penbroke,
+<date>July 4. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:161944:4"/>
+            <head>The proceedings of the Forces belonging to his Highneſſe the Prince of <hi>Wales,</hi> upon the Coaſt of <hi>Kent.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon Wedneſday laſt, there hapned a deſperate engagement betwixt the Parliaments Forces, and a party belonging to his Highneſſe the Prince of <hi>Wales,</hi> at <hi>Walmer</hi> Caſtle, the manner thus.</p>
+            <p>The Prince having ſent a party from France, under the command of Col. <hi>Fitz-Beal,</hi> with Armes and Am<g ref="char:EOLhyphen"/>munition for the relief of the two Caſtles of <hi>Deal</hi> and <hi>Sandown,</hi> and having effected the ſame, the ſaid Colonel reſolved for <hi>Walmer</hi> Caſtle, and thereupon hoyſted ſayl and ſteered towards <hi>Walmer,</hi> where they arrived towards the evening, accompanied with three other ſhips very well man'd, and when they were within half musket ſhot of the ſhore, they let fly a broad ſide at the Parliaments forces, who were intrenched upon the Breach neer the Caſtle; inſomuch, that there began a very dangerous and hot diſpute, the fight continuing for the ſpace of an hour and a half; the Cavalry plaid very faſt with their great and ſmall ſhot all the time, the Parliamenteers anſwered them with the like Vol<g ref="char:EOLhyphen"/>leyes, and at the laſt beat them off from the ſhore, and foroed them to Sea, with the loſſe of ſix men, and nine wounded.</p>
+            <pb n="5" facs="tcp:161944:4" rendition="simple:additions"/>
+            <p>The Enemy fought reſolutely, but (it is ſuppoſed) with a great deal of loſſe made their retreat, for it is ſaid that divers were ſeen to fall upon the Decks of the ſhips.</p>
+            <p>This is a great diſhearming to the beſieged, to have relief attempted without ſucceſſe, though as yet they ſlight any overture of ſurrender or treaty. Divers Gra<g ref="char:EOLhyphen"/>nadoes have been ſhot into the caſtle, yet are they within not brought thereby to the leaſt complyance of diſpoſition to yeeld.</p>
+            <p>We hear that the Royaliſts liſted under the Duke of <hi>Buckingham,</hi> and others, are come into Suſſex, and that they intend to randezvouz on the South ſide of <hi>London</hi> very ſpeedily.</p>
+            <p>Divers reſorts to them out of this County, and many great ones it is thought will ingage with them.</p>
+            <p>Their numbers increaſe dayly, and unleſſe ſpeedily prevented, will grow to a great head.</p>
+            <p>It is reported, that divers great ones are amongſt them, as ſeverall Earles and Lords, <hi>viz.</hi> the young Duke of <hi>Buckingham,</hi> the Earl of <hi>Holland,</hi> and ſeverall other Lords of eminency.</p>
+            <p>Some report, that if they be not ſuppreſſed within 2 or 3 dayes, their number will increaſe to many thou<g ref="char:EOLhyphen"/>fands.</p>
+            <p>Others again report, that ſo ſoon as they have gai<g ref="char:EOLhyphen"/>ned a conſiderable party, they are reſolved to raiſe the ſiege at Colcheſter.</p>
+            <p>They ſeize upon all the Horſe that poſſible they can light of, and many country Royaliſts come in unto them, they are gallantly mounted, and exceeding well armed, and gives out many reproachfull ſpeeches a<g ref="char:EOLhyphen"/>gainſt the Parliament.</p>
+            <pb n="6" facs="tcp:161944:5"/>
+            <p>They expect within 2 or 3 dayes to be in a Body of 4000. Horſe and Foot, and when they are thus joyned, then they are (as it is ſaid) to go to raiſe the ſiege at Colcheſter.</p>
+            <p>There is ſome ſpeeches as if they had a deſign to at<g ref="char:EOLhyphen"/>tempt the ſurprizing of the Comittee at Derby-houſe, before they go to relieve Colcheſter. They pretend to riſe to fetch the King home to the Parliament, &amp;c. and uſe many faire pretences to draw in others amongſt them.</p>
+            <p>But we hear, that there is a party of horſe comming from the Lord Generall to ſuppreſſe them. Yet not<g ref="char:EOLhyphen"/>withſtanding, many Royaliſts in this County have de<g ref="char:EOLhyphen"/>clared for them, and divers are already gone in to their aſſiſtance.</p>
+            <closer>
+               <dateline>
+                  <hi>Maidſtone,</hi>
+                  <date>July 7. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
